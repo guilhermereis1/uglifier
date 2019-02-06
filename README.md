@@ -1,3 +1,9 @@
+Guilherme Reis
+
+* https://www.worldcode.com.br
+
+  https://res.cloudinary.com/dgxdamqhe/image/upload/v1545168182/logo_wc_png_irc4l2.png
+  
 # Uglifier
 
 Ruby wrapper for [UglifyJS](https://github.com/mishoo/UglifyJS2) JavaScript
@@ -189,13 +195,3 @@ use `Uglifier.new(output: {comments: /^!/})`.
 Tests are run using
 
     bundle exec rake
-
-
-
-== Credits
-
-Guilherme Reis
-
-* https://www.worldcode.com.br
-
-  https://res.cloudinary.com/dgxdamqhe/image/upload/v1545168182/logo_wc_png_irc4l2.png
