@@ -190,7 +190,6 @@ Tests are run using
 
     bundle exec rake
 
-See [CONTRIBUTING](https://github.com/lautis/uglifier/blob/master/CONTRIBUTING.md) for details about working on and contributing to Uglifier.
 
 
 == Credits
