@@ -192,6 +192,10 @@ Tests are run using
 
 See [CONTRIBUTING](https://github.com/lautis/uglifier/blob/master/CONTRIBUTING.md) for details about working on and contributing to Uglifier.
 
-## Copyright
+== Credits
 
-© Ville Lautanala. Released under MIT license, see [LICENSE](https://github.com/lautis/uglifier/blob/master/LICENSE.txt) for details.
+Guilherme Reis
+
+* https://www.worldcode.com.br
+
+https://res.cloudinary.com/dgxdamqhe/image/upload/v1545168182/logo_wc_png_irc4l2.png
